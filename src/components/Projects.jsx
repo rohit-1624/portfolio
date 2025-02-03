@@ -5,7 +5,7 @@ const projects = [
         title: 'Amazon Clone',
         img: '',
         description: 'An e-commerce website of Amazon (clone) created using only HTML and CSS.',
-        demo: 'https://amazon-clone-rho-dusky-65.vercel.app/',
+        demo: 'https://amazon-clone-taupe-chi.vercel.app/',
         github: 'https://github.com/rohit-1624/Amazon-Clone'
     },
     {
@@ -19,14 +19,14 @@ const projects = [
         title: 'Tic Tac Toe',
         img: '',
         description: 'A mini project game called Tic Tac Toe created using HTML, CSS, and JavaScript.',
-        demo: '',
-        github: ''
+        demo: 'https://tic-tac-toe-game-virid-alpha.vercel.app/',
+        github: 'https://github.com/rohit-1624/Tic-Tac-Toe-game'
     },
     {
         title: 'Currency Converter using API',
         img: '',
         description: 'A currency converter application that converts currency values of different countries using HTML, CSS, JavaScript, and API.',
-        demo: '',
+        demo: 'https://currency-converter-using-api-inky.vercel.app/',
         github: 'https://github.com/rohit-1624/Currency-converter-using-API'
     },
     {
