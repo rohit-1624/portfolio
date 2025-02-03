@@ -7,7 +7,7 @@ const openResume = (e) => {
 
 const Home = () => (
     <div className="bg-[#09101A]">
-        <section id="home" className="h-full flex items-center justify-center pt-6 md:pt-30 py-8 px-4 md:px-12">
+        <section id="home" className="min-h-screen flex items-center justify-center pt-6 md:pt-30 py-8 px-4 md:px-12">
             <div className="grid grid-cols-1 md:grid-cols-2">
                 <div className="flex flex-col p-6 md:p-16 pt-1 gap-6 justify-center">
                     <div className="space-y-1 text-white">
