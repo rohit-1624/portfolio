@@ -21,7 +21,7 @@ const Home = () => (
                     </button>
                 </div>
 
-                <div className="md:h-[300px] md:w-[260px] h-[200] w-[200px] mx-auto py-15">
+                <div className="md:h-[300px] md:w-[260px] h-[200] w-[150px] mx-auto py-15">
                     <img src="/images/profile-pic.jpeg" alt="profile-pic" className="rounded-full border border-2 border-violet-700 shadow-lg shadow-gray-600" />
                 </div>
             </div>
