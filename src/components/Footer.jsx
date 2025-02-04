@@ -38,7 +38,7 @@ const Footer = () => {
                         <li><a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohitsharmasharma4689@gmail.com"
                             target="_blank"
                             rel="noopener noreferrer" className="hover:underline hover:text-blue-600">Email</a></li>
-                        <li><a href="#" className="hover:underline hover:text-blue-600">Portfolio</a></li>
+                        <li><a href="https://github.com/rohit-1624/portfolio/" className="hover:underline hover:text-blue-600">Portfolio</a></li>
                     </ul>
                 </div>
 
