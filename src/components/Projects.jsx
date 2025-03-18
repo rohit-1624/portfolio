@@ -37,7 +37,7 @@ const projects = [
         github: 'https://github.com/rohit-1624/CodeSchool'
     },
     {
-        title: 'CRUD Web Application',
+        title: 'Online-Shopping (E-commerce)',
         img: '',
         description: 'A CRUD (Create, Read, Update, Delete) web app where details are stored in a table and can be managed using React.js.',
         demo: 'https://crud-web-application.vercel.app/',
